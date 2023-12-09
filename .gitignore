@@ -1,0 +1,8 @@
+# # The files will be ignored from pushing to github so they remain secret
+
+# *.pyc
+# __pycache__
+# db.sqlite3
+# /env
+# *.env
+# .vscode
